@@ -1,5 +1,4 @@
 import Layout from "../Components/Layout/Layout";
-
 export default function AboutPage() {
   return (
     <Layout title="About">
